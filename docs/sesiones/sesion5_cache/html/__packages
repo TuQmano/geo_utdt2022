@@ -1,0 +1,16 @@
+lubridate
+geoAr
+usethis
+devtools
+sf
+rnaturalearth
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+eph
